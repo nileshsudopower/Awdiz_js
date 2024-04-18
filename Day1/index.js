@@ -56,10 +56,10 @@
 
 // cupboard clothing = shirt
 
-var myStudentName = "Nilesh"
-var myStudentAge = 27
-var myStudentCompletedAssignment = true
+var myStudentName = "Nilesh";
+var myStudentAge = 27;
+var myStudentCompletedAssignment = true;
 
-console.log(myStudentName)
-console.log(myStudentAge)
-console.log(myStudentCompletedAssignment)
+console.log(myStudentName);
+console.log(myStudentAge);
+console.log(myStudentCompletedAssignment);
