@@ -32,6 +32,7 @@ console.log(first > second || first < second || third > second);
 
 function DL(){
     const age = document.getElementById("age").value;
+    console.log(age,"age")
     if(age > 18){
         alert(`Your age is valid for Driving License.`)
     }
