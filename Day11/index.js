@@ -20,23 +20,23 @@ var InsituteDetails = {
 // console.log("location",InsituteDetails.location);
 // console.log("totalStudents",InsituteDetails.batchesDetails.totalStudents)
 
-// const subArray = InsituteDetails.courses[4];
-// console.log(subArray[2]);
+const subArray = InsituteDetails.courses[4];
+console.log(subArray[2]);
 
-// for(var i = 0; i < subArray.length; i++){
-//     if(subArray[i] === "Chetan"){
-//         console.log(i)
-//     }
-// }
+for(var i = 0; i < subArray.length; i++){
+    if(subArray[i] === "Chetan"){
+        console.log(i)
+    }
+}
 
 // console.log(InsituteDetails["studentname"])
 // console.log(InsituteDetails["batchesDetails"])
 // console.log(InsituteDetails["courses"].length)
 
 // const keys = Object.keys(InsituteDetails);
-// console.log(keys);
-const values = Object.values(InsituteDetails);
-console.log(values);
+// // console.log(keys);
+// const values = Object.values(InsituteDetails);
+// console.log(values);
 
 
 // for (let key in InsituteDetails) {
